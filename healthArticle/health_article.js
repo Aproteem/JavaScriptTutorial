@@ -48,4 +48,5 @@ xhr.onload = function () {
         articlesDiv.appendChild(articleDiv);
     });
 }
+
 xhr.send();
